@@ -1,0 +1,7 @@
+uploads/*
+!uploads/.gitkeep
+__pycache__/
+.venv/
+*.pyc
+stylekart.db
+.streamlit/
